@@ -29,10 +29,10 @@
   "devDependencies": {
     "howler": "^2.0.15",
     "pixi.js": "^4.8.2",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "webpack": "^4.20.2",
+    "webpack": "^5.75.0",
     "webpack-dev-server": "^3.1.9"
   }
 }
